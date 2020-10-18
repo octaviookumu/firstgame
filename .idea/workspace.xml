@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cdd21ca7-71c6-4199-bd1d-9bcdce564b3e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Careers page/careers" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela slideshow/hokela-carousel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/admin-page/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/admin-page/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/admin-page/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/admin-page/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/admin-page/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/admin-page/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/admin-page/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/admin-page/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/help-page/src/components/Help.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/help-page/src/components/Help.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/help-page/src/views/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/help-page/src/views/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/help-page/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/help-page/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/hokela-admin-page/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hokela/hokela-dashboard/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../../Hokela/hokela-dashboard/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udacity/app/src/main/res/drawable/dice_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udacity/app/src/main/res/drawable/dice_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udacity/app/src/main/res/drawable/dice_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udacity/app/src/main/res/drawable/dice_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udacity/app/src/main/res/drawable/dice_5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udacity/app/src/main/res/drawable/dice_6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Udacity/app/src/main/res/drawable/empty_dice.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/assets/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/components/NavBar.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/plugins/vuetify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Customers.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Dashboard.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/List.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Orders.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Outlets.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Products.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Purchases.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Questionnaires.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Reports.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/RoutePlan.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Sales.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/SalesReps.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Stocks.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/src/views/Suppliers.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Venda/venda-dashboard/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/calendar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/chat.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/info.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/language.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/CardViewDesign/app/src/main/res/drawable/widgets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DinnerDecider/app/src/main/res/font/muli_bold.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DinnerDecider/app/src/main/res/values/font_certs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DinnerDecider/app/src/main/res/values/preloaded_fonts.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DiscoverApp/app/src/main/res/drawable/checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DiscoverApp/app/src/main/res/drawable/download.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DiscoverApp/app/src/main/res/drawable/film.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DiscoverApp/app/src/main/res/drawable/house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DiscoverApp/app/src/main/res/drawable/illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DiscoverApp/app/src/main/res/drawable/link.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/DiscoverApp/app/src/main/res/drawable/pluspro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/GameQiz/app/src/main/res/font/mlight.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/GameQiz/app/src/main/res/font/mmedium.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/GameQiz/app/src/main/res/font/mregular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../apps/GameQiz/app/src/main/res/font/msemibold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../hokela-career-application" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1j3kmGtiE6JRppQ8Wbil1tCi1eE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="firstgame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdd21ca7-71c6-4199-bd1d-9bcdce564b3e" name="Default Changelist" comment="" />
+      <created>1603040319937</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603040319937</updated>
+      <workItem from="1603040329440" duration="211000" />
+      <workItem from="1603040607162" duration="147000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1603040754949">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603040754949" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1603040754947">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603040754947" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1603040754946">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603040754946" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1603040754948">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603040754948" />
+    <state x="229" y="60" key="SettingsEditor" timestamp="1603040547456">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="229" y="60" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1603040547456" />
+    <state x="520" y="287" key="scopes" timestamp="1603040545456">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="520" y="287" key="scopes/0.23.1440.797@0.23.1440.797" timestamp="1603040545456" />
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup" timestamp="1603040511062">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="385" y="144" width="670" height="676" key="search.everywhere.popup/0.23.1440.797@0.23.1440.797" timestamp="1603040511062" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/firstgame$main.coverage" NAME="main Coverage Results" MODIFIED="1603040801762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
