@@ -1,4 +1,4 @@
-print("Welcome to the game of your life!!")
+print("Welcome to the game!!")
 name = input("What is your name? ")
 age = int(input("What is your age? "))
 health = 10
